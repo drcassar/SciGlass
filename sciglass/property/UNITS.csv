@@ -1,0 +1,592 @@
+"UNIT","TOSI","FROMSI","IDF","GREEK","AtMol"
+"-1                            ",,,,"-1                            ",false
+"-B",,,"      ","-B",false
+"[cm/week]^-1                  ",,,,"[cm/week]^-1                  ",false
+"/",,,"      ","/",false
+"/D",,,"      ","/D                            ",false
+"/g glass",,,"      ","/g glass",false
+"%",,,,"%",false
+"% by analysis",,,"      ","% by analysis",false
+"%/cm2",,,,"%/cmÂ",false
+"%/h",,,"      ","%/h",false
+"%/in2",,,,"%/inÂ",false
+"%/Microm2",,,,"%/õmÂ",false
+"%/min",,,,"%/min",false
+"%/mm2",,,,"%/mmÂ",false
+"%/mm2.h",,,,"%/(mmÂ·h)",false
+"^-1                           ",,,,"^-1                           ",false
+"1/2",,,"      ","1/2",false
+"1/h.A^3",,,"      ","1/(h·ÊÃ)",false
+"a.u.",,,"      ","a.u.",false
+"Angstrom","U_*1E-10","U_*1E10","WAV","Ê",false
+"at.%                          ",,,,"at.%                          ",false
+"atm","U_*1.01E5","U_/1.01E5 ","PRE","atm",false
+"atm^-1",,,,"atm¬Á",false
+"atm^1/2",,,,"atmÁÑÂ",false
+"atom/s.cm.atm","U_*3.6817E-25","U_/3.6817E-25","PER","atoms/(s·cm·atm)",false
+"atoms/cm3",,,,"atoms/cmÃ",false
+"atoms/cm3.atm","U_*3.6817E-25","U_/3.6817E-25","SOL","atoms/(cmÃ·atm)",false
+"atoms/cm3.Pa","U_*3.7305E-20","U_/3.7305E-20","SOL","atoms/(cmÃ·Pa)",false
+"atoms/g",,,"      ","atoms/g",false
+"atoms/g.atm",,,,"atoms/g·atm",false
+"atoms/s.cm.atm","U_*3.6817E-25","U_/3.6817E-25","PER","atoms/(s·cm·atm)",false
+"atoms/s.cm.K.atm",,,,"atoms/(s·cm·K·atm)",false
+"atoms/s.cm.Pa","U_*3.7305E-20","U_/3.7305E-20","PER","atoms/(s·cm·Pa)",false
+"bar","U_*1E5","U_/1E5","MDU","bar",false
+"bar-1","U_*1E-5","U_*1E5","CMP","bar¬Á",false
+"bar[p]","U_*1E5","U_/1E5","PRE","bar",false
+"Brewster","U_*1E-12","U_*1E12","SOC","Brewster",false
+"Btu.in/h.ft2.oF","U_*0.14413","U_/0.14413","THC","Btu·in/(h·ftÂ·°F)",false
+"Btu/h.ft.oF","U_*1.7296","U_/1.7296","THC","Btu/(h·ft·°F)",false
+"Btu/lb.oC","U_*4184","U_/4184","HTC","Btu/(lb·°C)",false
+"cal",,,"      ","cal",false
+"cal.K/g-atom",,,"      ","cal·K/g-atom",true
+"cal/cm.s.K","U_*4.184E2","U_/4.184E2","THC","cal/(cm·s·K)",false
+"cal/cm3.K",,,"      ","cal/(cmÃ·K)",false
+"cal/g","U_*4.184E3","U_/4.184E3","ENT","cal/g",false
+"cal/g-atom","U_*4184/g_atom","U_/4184*g_atom","ENT","cal/g-atom",true
+"cal/g-atom.K","U_*4184/g_atom","U_/4184*g_atom","HTC","cal/(g-atom·K)",true
+"cal/g-atom.K2","U_*4184/g_atom","U_/4184*g_atom","HC1   ","cal/(g-atom·KÂ)",true
+"cal/g.K","U_*4.184E3","U_/4.184E3","HTC","cal/(g·K)",false
+"cal/mol","U_*4184/g_mol","U_/4184*g_mol","ENT","cal/mol",true
+"cal/mol.K","U_*4184/g_mol","U_/4184*g_mol","HTC","cal/(mol·K)",true
+"cm","U_*0.01","U_/0.01","LEN","cm",false
+"cm-1","U_*1E2","U_/1E2","RLE","cm¬Á",false
+"cm[S.T.P.]/mol.atm",,,,"cm[S·T·P·]/(mol·atm)",true
+"cm/cm",,,,"cm/cm",false
+"cm/min","U_/6000","U_*6000","VEL","cm/min",false
+"cm/s","U_*1E-2","U_*1E2","VEL","cm/s",false
+"cm/week                       ",,,,"cm/week                       ",false
+"cm^-1","1E-2/U_","1E2/U_","WAV","cm¬Á",false
+"cm^-2.s^-1",,,,"cm¬Â·s¬Á",false
+"cm^-3",,,,"cm¬Ã",false
+"cm^-3.h^-1","U_*1E6/3600","U_*1E-6*3600","VNU","cm¬Ã·h¬Á",false
+"cm^-3.min^-1","U_*1E6/60","U_*1E-6*60","VNU","cm¬Ã·min¬Á",false
+"cm^-3.s^-1","U_*1E6","U_*1E-6","VNU","cm¬Ã·s¬Á",false
+"cm^3/g",,,"      ","cmÃ/g",false
+"cm^3/g-atom",,,"      ","cmÃ/g-atom",false
+"cm^3/mol",,,"      ","cmÃ/mol",true
+"cm^3/s",,,"      ","cm^3/s                        ",false
+"cm2","U_*1E-4","U_*1E4","ARE","cmÂ",false
+"cm2.min",,,"      ","cmÂ·min",false
+"cm2.s^1/2",,,"      ","cmÂ·sÁÑÂ",false
+"cm2/day","U_/864E6","U_*864E6","DIF","cmÂ/day",false
+"cm2/dyn","U_*10","U_/10","SOC","cmÂ/dyn",false
+"cm2/dyn[comp]","U_*10","U_/10","CMP","cmÂ/dyn",false
+"cm2/g",,,"      ","cmÂ/g",false
+"cm2/kg",,,"      ","cmÂ/kg",false
+"cm2/kgf","U_*9.81E-4","U_/9.81E-4","SOC","cmÂ/kgf",false
+"cm2/N","U_*1E-4","U_/1E-4","SOC","cmÂ/N",false
+"cm2/s","U_/1E4","U_*1E4","DIF","cmÂ/s",false
+"cm2/s.K",,,,"cmÂ/(s·K)",false
+"cm2/V.s",,,"      ","cmÂ/(V·s)",false
+"cm3","U_*1E-6","U_*1E6","VOL","cmÃ",false
+"cm3.K",,,"      ","cm3·K",false
+"cm3[S.T.P.].mm/s.cm2.atm",,,"      ","cm3[S·T·P·]·mm/s·cm2·atm",false
+"cm3[S.T.P.]/s.cm.atm",,,"      ","cmÃ[S·T·P·]/(s·cm·atm)",false
+"cm3[STP].cm/s.cm2.atm","U_*9.8692E-6","U_/9.8692E-6","PER","cmÃ[STP]·cm/(s·cmÂ·atm)",false
+"cm3[STP].mm/cm2",,,"      ","cmÃ[STP]·mm/cmÂ",false
+"cm3[STP].mm/cm2.h.atm",,,"      ","cmÃ[STP]·mm/(cmÂ·h·atm)",false
+"cm3[STP].mm/s.cm2.cm Hg","U_*7.5006E-5","U_/7.5006E-5","PER","cmÃ[STP]·mm/(s·cmÂ·cm Hg)",false
+"cm3[STP].mm/s.cm2.K.mm Hg",,,"      ","cmÃ[STP]mm/(s·cmÂ·K·mm Hg)",false
+"cm3[STP]/cm2",,,"      ","cmÃ[STP]/cmÂ",false
+"cm3[STP]/cm3",,," ","cmÃ[STP]/cmÃ",false
+"cm3[STP]/cm3 glass",,,"      ","cm3[STP]/cm3 glass",false
+"cm3[STP]/cm3 SiO2",,," ","cmÃ[STP]/cmÃSiOâ",false
+"cm3[STP]/cm3.atm","U_*9.8692E-6","U_/9.8692E-6","SOL","cmÃ[STP]/(cmÃ·atm)",false
+"cm3[STP]/cm3.Pa","U_","U_","SOL","cmÃ[STP]/(cmÃ·Pa)",false
+"cm3[STP]/g",,," ","cmÃ[STP]/g",false
+"cm3[STP]/g.atm",,," ","cmÃ[STP]/(g·atm)",false
+"cm3[STP]/mol melt.atm",,," ","cmÃ[STP]/(mol melt·atm)",true
+"cm3[STP]/s",,,"      ","cmÃ[STP]/s",false
+"cm3[STP]/s.cm",,,"      ","cmÃ[STP]/(s·cm)",false
+"cm3{STP]cm/s.cm2.Pa","U_","U_","PER","cmÃ[STP]·cm/(s·cmÂ·Pa)",false
+"cm3/100 g melt",,,,"cmÃ/100 g melt",false
+"cm3/g"," U_*1E-3","U_*1E3              ","SPV","cmÃ/g",false
+"cm3/g-atom","U_*0.001/g_atom","U_*g_atom*1E3","SPV","cmÃ/g-atom",true
+"cm3/g.K",,,,"cmÃ/(g·K)",false
+"cm3/mol","U_*1E-3/g_mol","U_*1E3*g_mol","SPV","cmÃ/mol",true
+"cm3/mol.K",,,,"cmÃ/(mol·K)",true
+"cm4/kg2",,,,"cmÄ/kgÂ",false
+"day","U_*86400","U_/86400","TIM","day",false
+"days                          ",,,,"days                          ",false
+"dB",,,"      ","dB",false
+"dB/cm","U_*1E2","U_/1E2","ABS","dB/cm",false
+"dB/cycle",,,,"dB/cycle",false
+"dB/in","U_*40","U_/40","ABS","dB/in",false
+"dB/km","U_*1E-3","U_*1E3","ABS","dB/km",false
+"dB/m","U_","U_","ABS","dB/m",false
+"dB/Micros",,,"      ","dB/õs",false
+"dyn/cm","U_*1E-3","U_*1E3","SUT","dyn/cm",false
+"dyn/cm.K","U_/1E3","U_*1E3","S/T","dyn/(cm·K)",false
+"dyn/cm.K^2",,,"      ","dyn(cm·KÂ)",false
+"dyn/cm2","U_*0.1","U_/0.1","MDU","dyn/cmÂ",false
+"dyn/mm2","U_*10","U_/10","MDU","dyn/mmÂ",false
+"emu.K/g.Oe",,,"      ","emu·K/g·Oe",false
+"emu.K/mol",,,"      ","emu.K/mol",false
+"emu.K/mol.Oe",,,"      ","emu·K/mol·Oe",false
+"emu/g",,,"      ","emu/g",false
+"emu/g-atom",,,"      ","emu/g-atom",true
+"emu/g.G",,,,"emu/(g·G)",false
+"emu/g.Oe",,,"      ","emu/g·Oe",false
+"emu/mol",,,"      ","emu/mol",true
+"emu/mol.Oe",,,"      ","emu/mol·Oe",true
+"emu/oe.cm3",,,,"emu/(Oe·cmÃ)",false
+"emu/Oe.g",,,"      ","emu/Oe·g",false
+"erg/cm.s.K","U_*1E5","U_/1E5","THC","erg/(cm·s·K)",false
+"erg/cm2","U_*1E-3","U_*1E3","SUT","erg/cmÂ",false
+"erg/g.K","U_*1E-4","U_/1E-4","HTC","erg/(g·K)",false
+"erg/g.K^2",,,"      ","erg/g·KÂ",false
+"erg/g.K^4",,,"      ","erg/g·KÄ",false
+"erg/g.K^6",,,"      ","erg/(g·KÆ)",false
+"erg/g.K2",,,"      ","erg/(g·KÂ)",false
+"erg/g.K4",,,"      ","erg/(g·KÄ)",false
+"erg/K4.cm3",,,"      ","erg/(KÄ·cmÃ)",false
+"erg/m.s.K","U_*1E-7","U_*1E7","THC   ","erg/m·s·K",false
+"eV","U_*9.647E4","U_/9.647E4","ACE","eV",false
+"foot","U_*0.3048","U_/0.3048","LEN","foot",false
+"foot2","U_*0.092903","U_/0.092903","ARE","footÂ",false
+"foot3","U_*0.028317","U_/0.028317","VOL","footÃ",false
+"g","U_*1E-3","U_/1E-3","MAS","g",false
+"g BN/mol B2O3",,,"      ","g BN/mol BâOã                 ",false
+"g CO2/g glass",,,,"g COâ/g glass",false
+"g F/cm2.day",,,"      ","g F/(cmÂ·day)",false
+"g-atom/cm3","U_*g_atom/1E3","U_*1E-3/g_atom","DEN","g-atom/cmÃ",true
+"g-atom/emu",,,"      ","g-atom/emu",false
+"g-equival/l",,,"      ","g-equival/l",false
+"g.K",,,"      ","g·K",false
+"g.mm/s.cm2.atm",,,,"g·mm/(s·cmÂ·atm)",false
+"g.mol H2O/l glass",,,,"g·mol HâO/l glass",true
+"g/cm.s2",,,"      ","g/(cm·sÂ)",false
+"g/cm2",,,,"g/cmÂ",false
+"g/cm2.day","U_/8460","U_*8460","EVR","g/(cmÂ·day)",false
+"g/cm2.h","U_/360","U_*360","EVR","g/(cmÂ·h)",false
+"g/cm2.min","U_/6","U_*6","EVR","g/(cmÂ·min)",false
+"g/cm2.s","U_*10","U_/10","EVR","g/(cmÂ·s)",false
+"g/cm2.s^1/2",,,"      ","g/(cmÂ·sÁÑÂ)",false
+"g/cm3","U_*1E3","U_/1E3","DEN","g/cmÃ",false
+"g/cm3.K",,,,"g/(cmÃ·K)",false
+"g/cm3.K2",,,,"g/(cmÃ·KÂ)",false
+"g/cm3.min",,,,"g/(cmÃ·min)",false
+"g/day",,,"      ","g/day",false
+"g/emu",,,"      ","g/emu",false
+"g/g",,,"      ","g/g",false
+"g/h",,,"      ","g/h",false
+"g/h^1/2",,,,"g/hÁÑÂ",false
+"g/in2",,,"      ","g/inÂ",false
+"g/m2",,,,"g/mÂ",false
+"g/m2.day",,,"      ","g/(mÂ·day)",false
+"g/min",,,"      ","g/min",false
+"g/ml.cm2",,,,"g/(ml·cmÂ)",false
+"g/mm2.h",,,,"g/(mmÂ·h)",false
+"g/mm2.s",,,,"g/(mmÂ·s)",false
+"g/mol",,,"      ","g/mol",false
+"g/s",,,"      ","g/s",false
+"g^-1",,,,"g¬Á",false
+"gf",,,,"gf",false
+"GHz","U_*1E9","U_/1E9","FRQ","GHz",false
+"GPa","U_*1E9","U_/1E9","MDU","GPa",false
+"GPa.K^-1","U_*1E9","U_/1E9","M/T","GPa/K",false
+"GPa[p]","U_*1E9","U_/1E9","PRE","GPa",false
+"GPa/K","U_*1E9","U_/1E9","M/T","GPa/K",false
+"GPa/min",,,"      ","GPa/min",false
+"GPa/s",,,,"GPa/s",false
+"h","U_*3600","U_/3600","TIM","h",false
+"hr",,,"      ","hr",false
+"Hz","U_","U_","FRQ","Hz",false
+"Hz^-1",,,"      ","Hz¬Á",false
+"inch","U_*0.0254","U_/0.0254","LEN","in",false
+"inch2","U_*6.4516E-4","U_*6.4516E4","ARE","inÂ",false
+"inch3","U_*1.6387E-5","U_*1.6387E5","VOL","inÃ",false
+"J",,,,"J",false
+"J.K/g",,,,"J·K/g",false
+"J.K/g-atom",,,"      ","J·K/g-atom",false
+"J.K/mol","U_/g_mol","U_*g_mol","HC2   ","J·K/mol",true
+"J/cm.s.K","U_*1E2","U_/1E2","THC","J/(cm·s·K)",false
+"J/cm3.K",,,"      ","J/(cmÃ·K)",false
+"J/g","U_*1E3","U_/1E3","ENT","J/g",false
+"J/g-atom.K","U_*1E3/g_atom","U_/1E3*g_atom","HTC","J/(g-atom·K)",true
+"J/g-atom.K^2",,,"      ","J/g-atom·KÂ",false
+"J/g.K","U_*1E3","U_/1E3","HTC","J/(g·K)",false
+"J/g.K^[1/2]",,,,"J/(g·KÁÑÂ)",false
+"J/g.K2",,,,"J/(g·KÂ)",false
+"J/K^[1/2].g",,,,"J/(g·KÁÑÂ)",false
+"J/K2.g",,,,"J/(g·KÂ)",false
+"J/kg","U_","U_","ENT","J/kg",false
+"J/kg.K","U_","U_","HTC","J/(kg·K)",false
+"J/kmol.K","U_/g_mol","U_*g_mol","HTC","J/(kmol·K)",true
+"J/m2","U_","U_","SUT","J/mÂ",false
+"J/m3.K4",,,"      ","J/(mÃ·KÄ)",false
+"J/mol","U_*1E3/g_mol","U_*g_mol/1E3","ENT","J/mol",true
+"J/mol.K","U_*1E3/g_mol","U_/1E3*g_mol","HTC","J/(mol·K)",true
+"J/mol.K^[1/2].","U_/g_mol","U_*g_mol","HC3   ","J/(mol·KÁÑÂ)",true
+"J/mol.K^4",,,"      ","J/mol·KÄ",true
+"J/mol.K2","U_/g_mol","U_*g_mol","HC1   ","J/(mol·KÂ)",true
+"J/mol.K4",,,,"J/(mol·KÄ)",true
+"J/mole","U_","U_","ACE","J/mol",false
+"K","U_","U_","TMP","K",false
+"K-1",,,"      ","K-1",false
+"K.mm Hg",,,"      ","K·mm Hg",false
+"K/h","U_*2.78E-4","U_/2.78E-4","TRT","K/h",false
+"K/m",,,,"K/m",false
+"K/min","U_*1.67E-2","U_/1.67E-2","TRT","K/min",false
+"K/s","U_","U_","TRT","K/s",false
+"K^-1","U_","U_","TEC","K¬Á",false
+"K^-2",,,,"K¬Â",false
+"K^-3",,,,"K¬Ã",false
+"K^-4",,,,"K¬Ä",false
+"K^[-B]",,,,"K^[-B]",false
+"K^[1/2]/Ohm.cm",,,"      ","KÁÑÂ/(Ohm·cm)",false
+"K^2",,,"      ","KÂ",false
+"K^n",,,"      ","K×",false
+"K2",,,"      ","KÂ",false
+"kbar","U_*1E8","U_/1E8","MDU","kbar",false
+"kbar[p]","U_*1E8","U_*/1E8","PRE","kbar",false
+"kbar/K","U_*1E8","U_/1E8","M/T","kbar/K",false
+"kbar^-1",,,,"kbar¬Á",false
+"kbar^-2",,,"      ","kbar¬Â",false
+"kcal/g-atom O",,,"      ","kcal/g-atom O",true
+"kcal/g-ion"," ",,,"kcal/g-ion",false
+"kcal/m.h.K","U_*1.163","U_/1.163","THC","kcal/(m·h·K)",false
+"kcal/mol","U_*4.184E6/g_mol","U_/(4.184E6/g_mol)","ENT","kcal/mol",true
+"kcal/mol B2O3",,,"      ","kcal/mol BâOã",true
+"kcal/mol GeO2",,,,"kcal/mol GeOâ",true
+"kcal/mol H2O",,,"      ","kcal/mol HâO",true
+"kcal/mol P2O5",,,"      ","kcal/mol PâOå",true
+"kcal/mol SiO2",,,,"kcal/mol SiOâ",true
+"kcal/mole","U_*4184","U_/4184","ACE","kcal/mol",true
+"kg","U_","U_","MAS","kg",false
+"kg/cm2","U_*9.81E4","U_/9.81E4","MDU","kg/cmÂ",false
+"kg/cm2[p]","U_*9.81E4","U_/9.81E4","PRE","kg/cmÂ",false
+"kg/m","U_*9.81","U_/9.81","SUT","kg/m",false
+"kg/m2","U_*9.81","U_/9.81","MDU","kg/mÂ",false
+"kg/m2.s","U_","U_","EVR","kg/(mÂ·s)",false
+"kg/m3","U_","U_","DEN","kg/mÃ",false
+"kg/mm2","U_*9.81E6","U_/9.81E6","MDU","kg/mmÂ",false
+"kg/s",,,"      ","kg/s",false
+"kg/s2",,,"      ","kg/sÂ",false
+"kGb                           ",,,,"kGb                           ",false
+"kgf",,,"      ","kgf",false
+"kgf/cm2","U_*9.81E4","U_/9.81E4","MDU","kgf/cmÂ",false
+"kgf/mm2","U_*9.81E6","U_/9.81E6","MDU","kgf/mmÂ",false
+"kHz","U_*1E3","U_/1E3","FRQ","kHz",false
+"kJ",,,"      ","kJ",false
+"kJ/g-atom","U_1E6/g_atom","U_*g_atom/1E6","ENT","kJ/g-atom",true
+"kJ/K",,,,"kJ/K",false
+"kJ/kg","U_*1E3","U_/1E3","ENT","kJ/kg",false
+"kJ/mol","U_*1E6/g_mol","U_*g_mol/1E6","ENT","kJ/mol",true
+"kJ/mol SiO2",,,"      ","kJ/mol SiOâ",false
+"kJ/mole","U_*1E3","U_/1E3","ACE","kJ/mol",true
+"km","U_*1E3","U_/1E3","LEN","km",false
+"km/s","U_*1E3","U_/1E3","VEL","km/s",false
+"km/s.GPa","U_*1E-9","U_*1E9","C/P","km/(s·GPa)",false
+"km/s.K","U_*1E3","U_/1E3","C/T","km/(s·K)",false
+"km/s.kbar","U_*1E-8","U_*1E8","C/P","km/(s·kbar)",false
+"kPa","U_*1000","U_/1000","PRE","kPa",false
+"kpsi","U_*6895000","U_/6895000","MDU","kpsi",false
+"kV/cm",,,,"kV/cm",false
+"l.h                           ",,,,"l.h                           ",false
+"l/min",,,,"l/min",false
+"l/mol.cm",,,,"l/(mol·cm)",true
+"lb","U_*0.4536","U_/0.4536","MAS","lb",false
+"lb/foot3","U_*16.018","U_/16.018","DEN","lb/footÃ",false
+"lb/inch3","U_*27680","U_/27680","DEN","lb/inÃ",false
+"lbf/foot2","U_*47.88","U_/47.88","MDU","lbf/footÂ",false
+"liter","U_*1E-3","U_/1E3","VOL","liter",false
+"liter/mol.cm",,,"      ","liter/(mol·cm)",true
+"m","U_","U_","LEN","m",false
+"m/min                         ",,,,"m/min                         ",false
+"m/s","U_","U_","VEL","m/s",false
+"m/s.K",,,,"m/(s·K)",false
+"m/year",,,,"m/year",false
+"m^-1","U_","U_","RLE","m¬Á",false
+"m^-3",,,,"m¬Ã",false
+"m^-3.s^-1","U_","U_","VNU","m¬Ã·s¬Á",false
+"m2","U_","U_","ARE","mÂ",false
+"m2/g",,,"      ","mÂ/g",false
+"m2/h","U_/3600","U_*3600","DIF","mÂ/h",false
+"m2/N","U_","U_","CMP","mÂ/N",false
+"m2/s","U_","U_","DIF   ","mÂ/s",false
+"m3","U_","U_","VOL","mÃ",false
+"m3/kg","U_","U_","SPV","mÃ/kg",false
+"m3/kg_mol","U_/g_mol","U_*g_mol","SPV","mÃ/kmol",true
+"mB",,,,"mB",false
+"mbar","U_*1E2","U_/1E2","PRE","mbar",false
+"Mbar-1","U_*1E-11","U_*1E11","SOC","Mbar¬Á",false
+"Mbar^-1","U_*1E-11","U_*1E11","CMP","Mbar¬Á",false
+"mg","U_*1E-6","U_/1E-6","MAS","mg",false
+"mg K2O/g glass",,,,"mg KâO/g glass",false
+"mg Li2O/g glass",,,,"mg LiâO/g glass",false
+"mg Na2O/g glass",,,,"mg NaâO/g glass",false
+"mg R2O/g glass",,,,"mg RâO/g glass",false
+"mg/1000h.cm2",,,"      ","mg/(1000·h·cmÂ)",false
+"mg/cm2","U_","U_","WTL","mg/cmÂ",false
+"mg/cm2.day",,,,"mg/(cmÂ·day)",false
+"mg/cm2.h","U_/3.6E5","U_*3.6E5","EVR","mg/(cmÂ·h)",false
+"mg/cm2.h^1/2",,,"      ","mg/(cmÂ·hÁÑÂ)",false
+"mg/cm2.min","U_/6E3","U_*6E3","EVR","mg/(cmÂ·min)",false
+"mg/cm2.s","U_/100","U_*100","EVR","mg/(cmÂ·s)",false
+"mg/cm3",,,,"mg/cmÃ",false
+"mg/cm3 glass",,,"      ","mg/cmÃ glass",false
+"mg/dm2",,,,"mg/dmÂ",false
+"mg/dm2.h                      ",,,,"mg/dm2.h                      ",false
+"mg/dm2.h]                     ",,,,"mg/dm2.h]                     ",false
+"mg/dm2.s",,,"      ","mg/(dmÂ·s)",false
+"mg/g",,,,"mg/g",false
+"mg/g glass",,,,"mg/g glass",false
+"mg/g of glass",,,"      ","mg/g of glass",false
+"mg/g of melt",,,,"mg/g of melt",false
+"mg/g.day",,,,"mg/(g·day)",false
+"mg/g.min",,,,"mg/(g·min)",false
+"mg/g.min^1/2",,,"      ","mg/(g·minÁÑÂ)",false
+"mg/g*min",,,"      ","mg/(g·min)",false
+"mg/gR2O",,,,"mg/g RâO",false
+"mg/h",,,,"mg/h",false
+"mg/kg",,,,"mg/kg",false
+"mg/l",,,,"mg/l",false
+"mg/m2",,,,"mg/mÂ",false
+"mg/m2.s","U_/1E6","U_*1E6","EVR","mg/(mÂ·s)",false
+"mg/min.g",,,"      ","mg/(min·g)",false
+"mg/min.g glass",,,"      ","mg/(min·g glass)",false
+"mg/min^1/2.g glass",,,"      ","mg/(minÁÑÂ·g)",false
+"mg/ml",,,"      ","mg/ml",false
+"mg/mm2",,,"      ","mg/mmÂ",false
+"mg/mm2.h",,,,"mg/mmÂ·h",false
+"MHz","U_*1E6","U_/1E6","FRQ","MHz",false
+"Microg",,,"      ","õg",false
+"Microg SiO2/g glass.min",,,"      ","õg SiOâ/(g glass·min)",false
+"Microg-ion/dm2.min",,,,"õg-ion/dmÂ·min",false
+"Microg/cm2",,,"      ","õg/cmÂ",false
+"Microg/min",,,"      ","õg/min",false
+"Microg/mm2.h",,,,"õg/mmÂ·h",false
+"MicroJ/g.K","U_*1E-3","U_*1E3","HTC   ","õJ/g·K",false
+"MicroJ/g.K4",,,"      ","õJ/g·KÄ",false
+"Microm","U_*1E-6","U_*1E6","WAV","õm",false
+"Microm[len]","U_*1E-6","U_*1E6","LEN","õm",false
+"Microm/h","U_/3600E6","U_*3600E6","VEL","õm/h",false
+"Microm/min","U_/60E6","U_*60E6","VEL","õm/min",false
+"Microm/s","U_/1E6","U_*1E6","VEL","õm/s",false
+"Microm^-1",,,"      ","õm¬Á",false
+"Microm^-2",,,"      ","õm¬Â",false
+"Microm2/year",,,"      ","õmÂ/year",false
+"Micromol",,,,"õmol",false
+"Micromol/h",,,,"õmol/h",false
+"Microng/l",,,"      ","õg/l",false
+"Microng/min",,,"      ","õg/min",false
+"MicronJ/g.K4",,,,"õJ/(g·KÄ)",false
+"Micronm","U_*1E-6","U_*1E6","WAV","õm",false
+"Micronm[len]","U_*1E-6","U_*1E6","LEN","õm",false
+"Micronm/h","U_/3600E6","U_*3600E6","VEL","õm/h",false
+"Micronm/min","U_/60E6","U_*60E6","VEL","õm/min",false
+"Micronm/s","U_/1E6","U_*1E6","VEL","õm/s",false
+"Micronm^-1",,,"      ","õm¬Á",false
+"Micronm^-2",,,"      ","õm¬Â",false
+"mile","U_*1609.3","U_/1609.3","LEN","mile",false
+"min","U_*60","U_/60","TIM","min",false
+"min/E.cm",,,,"min/(E·cm)",false
+"min/G.cm",,,"      ","min/(G·cm)",false
+"min/kGb",,,"      ","min/kGb",false
+"min/Microm",,,,"min/õm",false
+"min/Oe.cm",,,,"min/(Oe·cm)",false
+"min^-1","U_/60","U_*60","FRQ","min¬Á",false
+"mJ/g.K","U_","U_","HTC","mJ/(g·K)",false
+"mJ/g.K^2",,,"      ","mJ/g·KÂ",false
+"mJ/g.K^4",,,"      ","mJ/g·KÄ",false
+"mJ/g.K4",,,"      ","mJ/g·KÄ",false
+"mJ/m2","U_*1E-3","U_*1E3","SUT","mJ/mÂ",false
+"mJ/m2.K",,,,"mJ/(mÂ·K)",false
+"mK","U_*1E-3","U_/1E-3","TMP","mK",false
+"ml","U_*1E-6","U_*1E6","VOL","ml",false
+"ml/dm2",,,"      ","ml/dmÂ",false
+"ml/g",,,,"ml/g",false
+"ml/g glass",,,,"ml/g glass",false
+"ml/min",,,"      ","ml/min",false
+"ml/week                       ",,,,"ml/week                       ",false
+"mm","U_*1E-3","U_*1E3","LEN","mm",false
+"mm Hg","U_*133.3","U_/133.3","PRE","mm Hg",false
+"mm-2.min-1",,,"      ","mm¬Â·min¬Á",false
+"mm/day",,,"      ","mm/day",false
+"mm/h","U_/36E5","U_*36E5","VEL","mm/h",false
+"mm/min","U_/6E4","U_*6E4","VEL","mm/min",false
+"mm/min^1/2",,,"      ","mm/minÁÑÂ",false
+"mm^-1","U_*1E3","U_/1E3","RLE","mm¬Á",false
+"mm^-2","U_*1E6","U_/1E6","RSU","mm¬Â",false
+"mm^-2.min^-1",,,"      ","mm¬Â·min¬Á",false
+"mm^-3",,,,"mm¬Ã",false
+"mm^-3.min^-1","U_*0.06*1E6","U_*1E-6/0.06","VNU","mm¬Ã·min¬Á",false
+"mm^-3.s^-1","U_*1E6/1000","U_*1E-6*1000","VNU","mm¬Ã·s¬Á",false
+"mm^2/kgf","U_*9.81E-6","U_/9.81E-6","SOC","mmÂ/kgf",false
+"mm^2/s",,,"      ","mmÂ/s",false
+"mm2",,,"      ","mmÂ",false
+"mm2/kgf",,,"      ","mmÂ/kgf",false
+"mm2/s",,,"      ","mmÂ/s",false
+"mMol",,,,"mMol",false
+"mN",,,"      ","mN",false
+"MN.m^[-3/2]","U_","U_","FRT","MN·m¬ÃÑÂ",false
+"mN/m","U_*1E-3","U_*1E3","SUT","mN/m",false
+"mN/m.K",,,"      ","mN/(m·K)",false
+"MOhm-1.mm-1","U_*1E-3","U_*E3","ELC","MOhm¬Á·mm¬Á",false
+"mol",,,"      ","mol",true
+"mol glass/cm2.s",,,"      ","mol glass/(cmÂ·s)",true
+"mol Na2O/cm2.s",,,"      ","mol NaâO/(cmÂ·s)",true
+"mol O2/cm.s",,,"      ","mol Oâ/(cm·s)",true
+"mol O2/cm3 melt.atm",,,,"mol Oâ/(cmÃ melt·atm)",true
+"mol O2/cm3.atm",,,"      ","mol Oâ/cmÃ·atm",true
+"mol O2/s.cm",,,"      ","mol Oâ/s·cm",true
+"mol P2O5/cm2.s",,,"      ","mol PâOå/cm·s",true
+"mol. %",,,"      ","mol· %",true
+"mol.%",,,"      ","mol·%",true
+"mol.% by analysis",,,,"mol·% by analysis",true
+"mol.% H2O",,,"      ","mol·% HâO",true
+"mol.% H2O/mol melt",,,"      ","mol·% HâO/mol melt",true
+"mol.fr.",,,"      ","mol·fr·",false
+"mol/cm.s",,,"      ","mol/cm·s",true
+"mol/cm^3",,,"      ","mol/cmÃ",true
+"mol/cm2",,,,"mol/cmÂ",true
+"mol/cm2.day",,,"      ","mol/cm2·day",false
+"mol/cm2.h",,,,"mol/(cmÂ·h)",true
+"mol/cm2.min",,,"      ","mol/(cmÂ·min)",true
+"mol/cm2.s",,,,"mol/(cmÂ·s)",true
+"mol/cm2.s.atm",,,"      ","mol/(cmÂ·s·atm)",false
+"mol/cm2.s^1/2",,,"      ","mol/(cmÂ·sÁÑÂ)",true
+"mol/emu",,,"      ","mol/emu",false
+"mol/g",,,,"mol/g",true
+"mol/g glass",,,,"mol/g glass",true
+"mol/h",,,"      ","mol/h",true
+"mol/l",,,"      ","mol/l",true
+"mol/l.h",,,,"mol/(l·h)",false
+"mol/m.s.Pa",,,"      ","mol/m.s.Pa",false
+"mol/min",,,"      ","mol/min",true
+"mol/s.cm2",,,"      ","mol/(s·cmÂ)",true
+"mol%",,,,"mol%",true
+"mol% SO3",,,,"mol% SOã",true
+"mol^-1",,,"      ","mol¬Á",true
+"mole",,,,"mole",true
+"mole fraction",,,,"mole fraction",true
+"mole.l/h",,,,"mole·l/h",false
+"mole/cm3",,,"      ","mole/cm3",false
+"mole/cm3.atm",,,,"mole/cmÃ·atm",true
+"mole/kg",,,,"mole/kg",false
+"mole/l.h                      ",,,,"mole/l.h                      ",false
+"molecules/cm.s",,,,"molecules/(cm·s)",true
+"molecules/cm3",,,,"molecules/cmÃ",true
+"molecules/cm3.atm","U_*3.6817E-25","U_/3.6817E-25","SOL","molecules/(cmÃ·atm)",true
+"molecules/s.cm",,,,"molecules/(s·cm)",true
+"molecules/s.cm.atm","U_*3.6817E-25","U_/3.6817E-25","PER   ","molecules/(s·cm·atm)",true
+"moleculs/g.atm",,,"      ","moleculs/g·atm",false
+"month",,,"      ","month",false
+"MPa","U_*1E6","U_/1E6","MDU","MPa",false
+"MPa.m^1/2","U_","U_","FRT","MPa·mÁÑÂ",false
+"MPa.m1/2",,,"      ","MPa·mÁÑÂ",false
+"MPa/s",,,"      ","MPa/s",false
+"Mpsi","U_*6895E6","U_/6895E6","MDU","Mpsi",false
+"MV/cm",,,"      ","MV/cm",false
+"mW/cm.K","U_/10","U_*10","THC","mW/(cm·K)",false
+"N",,,"      ","N",false
+"N.s/m2",,,,"N·s/mÂ",false
+"N/m","U_","U_","SUT","N/m",false
+"N/m2","U_","U_","MDU","N/mÂ",false
+"N/m3/2","U_","U_","FRT","N/mÃÑÂ",false
+"N/mm2","U_*1E6","U_*1E-6","      ","N/mmÂ",false
+"nJ/g.K","U_/1E6","U_*1E6","HTC","nJ/(g·K)",false
+"nm","U_*1E-9","U_*1E9","WAV","nm",false
+"nm.cm/kgf",,,,"nm·cm/kgf",false
+"nm/cm.Mpa","U_*1E-13","U_*1E13","SOC","nm/(cm·MPa)",false
+"nm/cm.Pa","U_*1E-7","U_*1E7","SOC","nm/(cm·Pa)",false
+"nm/mm.Mpa","U_*1E-12","U_*1E12","SOC","nm/(mm·MPa)",false
+"nmol/cm2",,,,"nmol/cmÂ",false
+"Np/cm","U_*8.68E2","U_/8.68E2","ABS","Np/cm",false
+"Np/Micros",,,"      ","Np/õs",false
+"oC","U_+273","U_-273","TMP","°C",false
+"Oe",,,"      ","Oe",false
+"Oe.g/emu",,,"      ","Oe·g/emu",false
+"Oe.mol/emu",,,"      ","Oe·mol/emu",false
+"oF","U_*5/9+255.22","U_*9/5-459.396","TMP","°F",false
+"OH-/cm3",,,,"OH¬/cmÃ",false
+"Ohm",,,"      ","Ohm",false
+"Ohm-1.cm-1",,,"      ","Ohm¬Á·cm¬Á",false
+"Ohm-1.inch-1","U_/0.0254","U_*0.0254","ELC","Ohm¬Á·inch¬Á",false
+"Ohm-1.m-1",,,"      ","Ohm¬Á·m¬Á",false
+"Ohm-1.m-1.K",,,"      ","Ohm¬Á·m¬Á·K",false
+"Ohm.cm","U_*1E-2","U_*1E2","ELR","Ohm·cm",false
+"Ohm.cm/K",,,,"Ohm·cm/K",false
+"Ohm.inch","U_*0.0254","U_/0.0254","ELR","Ohm·inch",false
+"Ohm.m","U_","U_","ELR","Ohm·m",false
+"Ohm.m/K",,,"      ","Ohm·m/K",false
+"Ohm^-1",,,"      ","Ohm¬Á",false
+"Ohm^-1.cm^-1","U_*1E2","U_/1E2","ELC","Ohm¬Á·cm¬Á",false
+"Ohm^-1.cm^-1.K",,,"      ","Ohm¬Á·cm¬Á·K",false
+"Ohm^-1.cm^-1.K^-1",,,"      ","Ohm¬Á·cm¬Á·K¬Á",false
+"Ohm^-1.cm2",,,"      ","Ohm¬Á·cmÂ",false
+"Ohm^-1.inch^-1","U_/0.0254","U_*0.0254","ELC   ","Ohm¬Á·inch¬Á",false
+"Ohm^-1.m-^1",,,"      ","Ohm^-1·m-^1",false
+"Ohm^-1.m^-1","U_","U_","ELC","Ohm¬Á·m¬Á",false
+"Ohm^-1.m^-1.K",,,"      ","Ohm¬Á·m¬Á·K",false
+"P","U_/10","U_*10","VIS","P",false
+"P.K^-1",,,"      ","P·K¬Á",false
+"P.K^-2",,,"      ","P·K¬Â",false
+"Pa","U_","U_","MDU","Pa",false
+"Pa-1","U_","U_","CMP","Pa¬Á",false
+"Pa.K",,,"      ","Pa·K",false
+"Pa.m1/2","U_","U_","FRT","Pa·mÁÑÂ",false
+"Pa.s","U_","U_","VIS","Pa·s",false
+"Pa[p]","U_","U_","PRE","Pa",false
+"Pa/K","U_","U_","M/T   ","Pa/K",false
+"Pa/s2",,,"      ","Pa/sÂ",false
+"Pa^-1","U_","U_","SOC","Pa¬Á",false
+"ppb",,,"      ","ppb",false
+"ppm",,,,"ppm",false
+"ppm by weight",,,"      ","ppm by weight",false
+"ppm by wt",,,"      ","ppm by wt",false
+"ppm/cm2",,,,"ppm/cmÂ",false
+"ppm/h",,,,"ppm/h",false
+"psi","U_*6895","U_/6895","MDU","psi",false
+"psi[p]","U_*6895","U_/6895","PRE","psi",false
+"rad/A",,,"      ","rad/A",false
+"rad/s",,,"      ","rad/s",false
+"rad/T.m",,,,"rad/(T·m)",false
+"rot/min","U_/60","U_*60","FRQ","rot/min",false
+"s","U_","U_","TIM","s",false
+"S/cm","U_*1E2","U_/1E2","ELC","S/cm",false
+"S/cm.K",,,"      ","S/cm·K",false
+"S/cm.K2",,,,"S/(cm·KÂ)",false
+"S/m",,,,"S/m",false
+"S/m.K",,,,"S/(m·K)",false
+"S/m.K2",,,,"S/(m·KÂ)",false
+"s^-1","U_","U_","FRQ","s¬Á",false
+"s^2/m",,,"      ","sÂ/m",false
+"T^[1/2]/Ohm.cm",,,"      ","KÁÑÂ/(Ohm·cm)",false
+"Tesla",,,"      ","Tesla",false
+"torr","U_*133.32","U_/133.32","MDU","torr",false
+"torr[p]","U_*133.32","U_/133.32","PRE","torr",false
+"twist/in",,,"      ","twist/in",false
+"ug SiO2/g glass.min",,,"      ","õg SiOâ/g glass·min",false
+"ug/cm2",,,"      ","õg/cmÂ",false
+"ug/l",,,"      ","õg/l",false
+"uJ/g.K4",,,"      ","õJ/g·K4",false
+"um                            ",,,,"um                            ",false
+"um/h",,,"      ","õm/h",false
+"um/min",,,"      ","õm/min",false
+"um/s",,,"      ","õm/s",false
+"V",,,,"V",false
+"V/cm",,,"      ","V/cm",false
+"vap",,,"      ","vap",false
+"vol.%",,,"      ","vol.%",false
+"W.s/g.K",,,,"W·s/(g·K)",false
+"W/cm.K","U_*1E2","U_/1E2","THC","W/(cm·K)",false
+"W/cm.K^[1+B]",,,"      ","W/(cm·K^[1+B])",false
+"W/m.K","U_","U_","THC","W/(m·K)",false
+"W/m.K.GPa",,,"      ","W/(m·K·GPa)",false
+"W/m.K2",,,,"W/(m·KÂ)",false
+"week","U_*86400*7","U_/(86400*7)","TIM","week",false
+"wt %",,,"      ","wt %",false
+"wt%",,,"      ","wt%",false
+"wt% by analysis",,,"      ","wt% by analysis",false
+"wt% by batch",,,"      ","wt% by batch",false
+"wt% H2O",,,"      ","wt% HâO",false
+"wt%/atm^(1/2)",,,"      ","wt%/atmÁÑÂ",false
+"wt%/atm1/2",,,"      ","wt%/atmÁÑÂ",false
+"wt%/h",,,,"wt%/h",false
+"wt%^-1.cm^-1",,,"      ","wt%¬Á·cm¬Á",false
+"yard","U_*0.9144","U_/0.9144","LEN","yard",false
+"year","U_*86400*365.25","U_/(86400*365.25)","TIM","year",false
