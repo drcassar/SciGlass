@@ -4,4 +4,4 @@ The largest glass property database contains data for more than 420 thousand gla
 
 # About this fork
 
-This fork is an attempt to convert the original SciGlass database files to plain text. The converted files can be found [here][./sciglass]. The original content and naming structure was not changed.
+This fork is an attempt to convert the original SciGlass database files to plain text. The converted files can be found [here](./sciglass). The original content and naming structure was not changed.
